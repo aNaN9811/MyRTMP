@@ -1,0 +1,18 @@
+# ninja log v5
+398	511	1718203810217148680	/Users/huangruonan/Project/MyRTMP/app/build/intermediates/cxx/Debug/594k1l4c/obj/armeabi-v7a/libmyrtmp.so	2b198215fd7a330b
+200	246	1718203809954410000	librtmp/librtmp.a	5a359701fab95b07
+3	148	1718203809854474431	librtmp/CMakeFiles/rtmp.dir/amf.c.o	2c9dcc5a315a9e07
+3	135	1718203809841484385	librtmp/CMakeFiles/rtmp.dir/log.c.o	5b33aa0dab82804e
+5	200	1718203809905919488	librtmp/CMakeFiles/rtmp.dir/rtmp.c.o	d1588177317ace18
+5	132	1718203809837294731	librtmp/CMakeFiles/rtmp.dir/parseurl.c.o	994edda4e6b370eb
+3	398	1718203810103519202	CMakeFiles/myrtmp.dir/native-lib.cpp.o	76088acdd205439a
+3	135	1718203809840760963	librtmp/CMakeFiles/rtmp.dir/hashswf.c.o	252c4ea42010d067
+0	4	0	clean	d1a15205cc77ab3a
+0	77	1718615374203658833	build.ninja	1d361c3de419d937
+0	30	1718615374203658833	build.ninja	1d361c3de419d937
+0	3	0	clean	d1a15205cc77ab3a
+0	4	0	clean	d1a15205cc77ab3a
+0	4	0	clean	d1a15205cc77ab3a
+0	4	0	clean	d1a15205cc77ab3a
+0	4	0	clean	d1a15205cc77ab3a
+0	4	0	clean	d1a15205cc77ab3a

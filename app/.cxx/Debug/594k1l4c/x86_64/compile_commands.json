@@ -1,0 +1,147 @@
+[
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dmyrtmp_EXPORTS -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/librtmp -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libx264/include -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libfaac/include -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/myrtmp.dir/native-lib.cpp.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/native-lib.cpp"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dmyrtmp_EXPORTS -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/librtmp -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libx264/include -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libfaac/include -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/myrtmp.dir/VideoChannel.cpp.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/VideoChannel.cpp",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/VideoChannel.cpp"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dmyrtmp_EXPORTS -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/librtmp -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libx264/include -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libfaac/include -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/myrtmp.dir/AudioChannel.cpp.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/AudioChannel.cpp",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/AudioChannel.cpp"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -DNO_CRYPTO -fno-limit-debug-info  -fPIC -o librtmp/CMakeFiles/rtmp.dir/amf.c.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/librtmp/amf.c",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/librtmp/amf.c"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -DNO_CRYPTO -fno-limit-debug-info  -fPIC -o librtmp/CMakeFiles/rtmp.dir/hashswf.c.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/librtmp/hashswf.c",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/librtmp/hashswf.c"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -DNO_CRYPTO -fno-limit-debug-info  -fPIC -o librtmp/CMakeFiles/rtmp.dir/log.c.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/librtmp/log.c",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/librtmp/log.c"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -DNO_CRYPTO -fno-limit-debug-info  -fPIC -o librtmp/CMakeFiles/rtmp.dir/parseurl.c.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/librtmp/parseurl.c",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/librtmp/parseurl.c"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -DNO_CRYPTO -fno-limit-debug-info  -fPIC -o librtmp/CMakeFiles/rtmp.dir/rtmp.c.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/librtmp/rtmp.c",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/librtmp/rtmp.c"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o libbreakpad/CMakeFiles/breakpad.dir/src/client/linux/crash_generation/crash_generation_client.cc.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/client/linux/crash_generation/crash_generation_client.cc",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/client/linux/crash_generation/crash_generation_client.cc"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o libbreakpad/CMakeFiles/breakpad.dir/src/client/linux/dump_writer_common/thread_info.cc.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/client/linux/dump_writer_common/thread_info.cc",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/client/linux/dump_writer_common/thread_info.cc"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o libbreakpad/CMakeFiles/breakpad.dir/src/client/linux/dump_writer_common/ucontext_reader.cc.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/client/linux/dump_writer_common/ucontext_reader.cc",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/client/linux/dump_writer_common/ucontext_reader.cc"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o libbreakpad/CMakeFiles/breakpad.dir/src/client/linux/handler/exception_handler.cc.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/client/linux/handler/exception_handler.cc",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/client/linux/handler/exception_handler.cc"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o libbreakpad/CMakeFiles/breakpad.dir/src/client/linux/handler/minidump_descriptor.cc.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/client/linux/handler/minidump_descriptor.cc",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/client/linux/handler/minidump_descriptor.cc"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o libbreakpad/CMakeFiles/breakpad.dir/src/client/linux/log/log.cc.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/client/linux/log/log.cc",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/client/linux/log/log.cc"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o libbreakpad/CMakeFiles/breakpad.dir/src/client/linux/microdump_writer/microdump_writer.cc.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/client/linux/microdump_writer/microdump_writer.cc",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/client/linux/microdump_writer/microdump_writer.cc"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o libbreakpad/CMakeFiles/breakpad.dir/src/client/linux/minidump_writer/linux_dumper.cc.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/client/linux/minidump_writer/linux_dumper.cc",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/client/linux/minidump_writer/linux_dumper.cc"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o libbreakpad/CMakeFiles/breakpad.dir/src/client/linux/minidump_writer/linux_ptrace_dumper.cc.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/client/linux/minidump_writer/linux_ptrace_dumper.cc",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/client/linux/minidump_writer/linux_ptrace_dumper.cc"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o libbreakpad/CMakeFiles/breakpad.dir/src/client/linux/minidump_writer/minidump_writer.cc.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/client/linux/minidump_writer/minidump_writer.cc",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/client/linux/minidump_writer/minidump_writer.cc"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o libbreakpad/CMakeFiles/breakpad.dir/src/client/minidump_file_writer.cc.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/client/minidump_file_writer.cc",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/client/minidump_file_writer.cc"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o libbreakpad/CMakeFiles/breakpad.dir/src/common/convert_UTF.cc.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/convert_UTF.cc",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/convert_UTF.cc"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o libbreakpad/CMakeFiles/breakpad.dir/src/common/md5.cc.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/md5.cc",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/md5.cc"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o libbreakpad/CMakeFiles/breakpad.dir/src/common/string_conversion.cc.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/string_conversion.cc",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/string_conversion.cc"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang -target x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o libbreakpad/CMakeFiles/breakpad.dir/src/common/linux/breakpad_getcontext.S.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/linux/breakpad_getcontext.S",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/linux/breakpad_getcontext.S"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o libbreakpad/CMakeFiles/breakpad.dir/src/common/linux/elfutils.cc.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/linux/elfutils.cc",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/linux/elfutils.cc"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o libbreakpad/CMakeFiles/breakpad.dir/src/common/linux/file_id.cc.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/linux/file_id.cc",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/linux/file_id.cc"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o libbreakpad/CMakeFiles/breakpad.dir/src/common/linux/guid_creator.cc.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/linux/guid_creator.cc",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/linux/guid_creator.cc"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o libbreakpad/CMakeFiles/breakpad.dir/src/common/linux/linux_libc_support.cc.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/linux/linux_libc_support.cc",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/linux/linux_libc_support.cc"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o libbreakpad/CMakeFiles/breakpad.dir/src/common/linux/memory_mapped_file.cc.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/linux/memory_mapped_file.cc",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/linux/memory_mapped_file.cc"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/x86_64",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android31 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o libbreakpad/CMakeFiles/breakpad.dir/src/common/linux/safe_readlink.cc.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/linux/safe_readlink.cc",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libbreakpad/src/common/linux/safe_readlink.cc"
+}
+]

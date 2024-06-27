@@ -1,0 +1,113 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-RelWithDebInfo-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "librtmp",
+					"jsonFile" : "directory-librtmp-RelWithDebInfo-bcfe427256b816cecad8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "librtmp",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "libbreakpad",
+					"jsonFile" : "directory-libbreakpad-RelWithDebInfo-daa6d1130765fea5176d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "libbreakpad",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "myrtmp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "breakpad::@b3abcb78d664003f2ae1",
+					"jsonFile" : "target-breakpad-RelWithDebInfo-8c079c18ff48440195c2.json",
+					"name" : "breakpad",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "myrtmp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-myrtmp-RelWithDebInfo-81782bde831f99e7d0b2.json",
+					"name" : "myrtmp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "rtmp::@c660c19e236c95bf39e0",
+					"jsonFile" : "target-rtmp-RelWithDebInfo-c042142deeda05c765ae.json",
+					"name" : "rtmp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/huangruonan/Project/MyRTMP/app/.cxx/RelWithDebInfo/3d125i1k/x86",
+		"source" : "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

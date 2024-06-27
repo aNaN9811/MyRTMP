@@ -1,0 +1,6 @@
+/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/4a3l263r/armeabi-v7a/CMakeFiles/myrtmp.dir
+/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/4a3l263r/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/4a3l263r/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/4a3l263r/armeabi-v7a/librtmp/CMakeFiles/rtmp.dir
+/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/4a3l263r/armeabi-v7a/librtmp/CMakeFiles/edit_cache.dir
+/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/4a3l263r/armeabi-v7a/librtmp/CMakeFiles/rebuild_cache.dir

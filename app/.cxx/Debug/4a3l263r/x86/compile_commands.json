@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/4a3l263r/x86",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android33 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dmyrtmp_EXPORTS -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/librtmp -I/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libx264/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -L/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/libx264/libs/x86 -fno-limit-debug-info  -fPIC -o CMakeFiles/myrtmp.dir/native-lib.cpp.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/native-lib.cpp"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/4a3l263r/x86",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android33 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -DNO_CRYPTO -fno-limit-debug-info  -fPIC -o librtmp/CMakeFiles/rtmp.dir/amf.c.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/librtmp/amf.c",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/librtmp/amf.c"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/4a3l263r/x86",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android33 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -DNO_CRYPTO -fno-limit-debug-info  -fPIC -o librtmp/CMakeFiles/rtmp.dir/hashswf.c.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/librtmp/hashswf.c",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/librtmp/hashswf.c"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/4a3l263r/x86",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android33 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -DNO_CRYPTO -fno-limit-debug-info  -fPIC -o librtmp/CMakeFiles/rtmp.dir/log.c.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/librtmp/log.c",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/librtmp/log.c"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/4a3l263r/x86",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android33 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -DNO_CRYPTO -fno-limit-debug-info  -fPIC -o librtmp/CMakeFiles/rtmp.dir/parseurl.c.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/librtmp/parseurl.c",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/librtmp/parseurl.c"
+},
+{
+  "directory": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/4a3l263r/x86",
+  "command": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android33 --sysroot=/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -DNO_CRYPTO -fno-limit-debug-info  -fPIC -o librtmp/CMakeFiles/rtmp.dir/rtmp.c.o -c /Users/huangruonan/Project/MyRTMP/app/src/main/cpp/librtmp/rtmp.c",
+  "file": "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/librtmp/rtmp.c"
+}
+]

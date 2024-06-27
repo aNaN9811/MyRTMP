@@ -1,0 +1,47 @@
+{
+  "buildFiles": [
+    "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/CMakeLists.txt",
+    "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp/librtmp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/huangruonan/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/4a3l263r/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/huangruonan/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/4a3l263r/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "myrtmp::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "myrtmp",
+      "output": "/Users/huangruonan/Project/MyRTMP/app/build/intermediates/cxx/Debug/4a3l263r/obj/x86_64/libmyrtmp.so",
+      "runtimeFiles": []
+    },
+    "rtmp::@c660c19e236c95bf39e0": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "rtmp",
+      "output": "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/4a3l263r/x86_64/librtmp/librtmp.a"
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/huangruonan/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

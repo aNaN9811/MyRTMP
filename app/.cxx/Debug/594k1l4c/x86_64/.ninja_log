@@ -1,0 +1,18 @@
+# ninja log v5
+0	68	1718615374283100216	build.ninja	5b5521d0a0f57124
+2	240	1718201748056633210	CMakeFiles/myrtmp.dir/native-lib.cpp.o	4a4b248b3e24d75e
+244	290	1718201732439843397	/Users/huangruonan/Project/MyRTMP/app/build/intermediates/cxx/Debug/594k1l4c/obj/x86_64/libmyrtmp.so	ad2be13b53003951
+3	38	1718201747855954668	librtmp/CMakeFiles/rtmp.dir/parseurl.c.o	e67a77e5ec2735ee
+3	48	1718201747865463098	librtmp/CMakeFiles/rtmp.dir/hashswf.c.o	64f1b8676dc886ed
+0	4	0	clean	d1a15205cc77ab3a
+3	96	1718201747913099835	librtmp/CMakeFiles/rtmp.dir/rtmp.c.o	78d186211eda7ff
+3	45	1718201747860489925	librtmp/CMakeFiles/rtmp.dir/log.c.o	7842376519213dae
+2	55	1718201747873092151	librtmp/CMakeFiles/rtmp.dir/amf.c.o	996f68519211185e
+96	124	1718201747943005000	librtmp/librtmp.a	5a359701fab95b07
+0	28	1718615374283100216	build.ninja	5b5521d0a0f57124
+0	3	0	clean	d1a15205cc77ab3a
+0	3	0	clean	d1a15205cc77ab3a
+0	3	0	clean	d1a15205cc77ab3a
+0	3	0	clean	d1a15205cc77ab3a
+1	4	0	clean	d1a15205cc77ab3a
+0	4	0	clean	d1a15205cc77ab3a

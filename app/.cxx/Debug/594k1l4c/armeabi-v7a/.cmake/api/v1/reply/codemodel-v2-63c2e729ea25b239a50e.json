@@ -1,0 +1,113 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "librtmp",
+					"jsonFile" : "directory-librtmp-Debug-bcfe427256b816cecad8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "librtmp",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "libbreakpad",
+					"jsonFile" : "directory-libbreakpad-Debug-daa6d1130765fea5176d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "libbreakpad",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "myrtmp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "breakpad::@b3abcb78d664003f2ae1",
+					"jsonFile" : "target-breakpad-Debug-9ac1e8725d9d94d312d3.json",
+					"name" : "breakpad",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "myrtmp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-myrtmp-Debug-896b05a512c26f225d57.json",
+					"name" : "myrtmp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "rtmp::@c660c19e236c95bf39e0",
+					"jsonFile" : "target-rtmp-Debug-931ff94c84a6cc76d980.json",
+					"name" : "rtmp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/594k1l4c/armeabi-v7a",
+		"source" : "/Users/huangruonan/Project/MyRTMP/app/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

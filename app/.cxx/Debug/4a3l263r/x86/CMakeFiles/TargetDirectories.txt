@@ -1,0 +1,6 @@
+/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/4a3l263r/x86/CMakeFiles/myrtmp.dir
+/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/4a3l263r/x86/CMakeFiles/edit_cache.dir
+/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/4a3l263r/x86/CMakeFiles/rebuild_cache.dir
+/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/4a3l263r/x86/librtmp/CMakeFiles/rtmp.dir
+/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/4a3l263r/x86/librtmp/CMakeFiles/edit_cache.dir
+/Users/huangruonan/Project/MyRTMP/app/.cxx/Debug/4a3l263r/x86/librtmp/CMakeFiles/rebuild_cache.dir
